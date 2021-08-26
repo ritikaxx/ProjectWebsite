@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"PROJECTS || BLOGS || DESIGNS",
+    "description":" Hi Everyone, I am Ritika Singh . I am currently pursuing my Btech in Computer Science from Vellore Institute Of Tchnology, Vellore. Apart from developing softwares, I find my interest in UI/UX Designing,  Technical Blogging  Drawing and Painting.",
+    "image":"avatar.png",
+    "bio":"Someone ordinary with an extravagant fondness and passion forSoftware Development. I am a keen learner with fluent knowledge in languages like C++, Python ,Java",
+    "contactmessage":"Full Stack MERN developer with hands-on experience on various projects with a social impact.",
+    "email": "ritika.mvn@gmail.com",
+    "phone": "8076833069",
+    "github":"https://github.com/ritikaxx",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "about":"Interested and experienced in Backend develpment with NodeJS and Flask,Full Stack MERN developer with hands-on experience on various projects with a social impact.,and Frontend development with ReactJS.",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1SRbuV0BMBuOPdyjwNSX6r28w4xVXau2y/view",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ritika-singh-3131a01b4/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/ritikaxx",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ritikaxx",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+ 
+  "portfolio":{
+    "projects": [
+      {
+        
+          "title":"Microsoft Teams Clone",
+          "category":"A Microsoft Teams clone made as a part of a challenge under Microsoft Engage-21 program.",
+          "image":"Teams.png",
+          "url":"https://github.com/ritikaxx/MicrosoftTeams",
+          "f1":"Video Chat, Call",
+          "f2":"Whiteboard",
+          "f3":"Scheduler"
+        },
+
+       { "title":"Ment-Ed",
+        "category":"A common E-learning platform to connect students,mentors and recruiters, for making the process of learning, teaching and recruiting way more simpler.",
+        "image":"mentEd.png",
+        "url":"https://github.com/ritikaxx/Ment-Ed",
+        "f1":"Skill Tests",
+          "f2":"Bidding and Points Payment",
+          "f3":"Recruiting adn Community Section"
+      },
+     
+      {
+        "title":"Lyrics Generation",
+        "category":"A lyrics generator made using concepts of Natural Language Processing and Neural Networks.",
+        "image":"codeEditor.png",
+        "url":"ttps://github.com/ritikaxx/LyricsGeneration",
+        "f1":"Neural networks",
+          "f2":"Tensorflow",
+          "f3":"Adam optimizer"
+      }
+      
+    ],
+    "designs": [
+      {
+        "title":"Ment-Ed",
+        "category":"A common E-learning platform to connect students,mentors and recruiters, for making the process of learning, teaching and recruiting way more simpler.",
+        "image":"Ment-Ed.png",
+        "url":"https://www.figma.com/file/amk9eOZtL3O6tonM9KL6dq/Untitled?node-id=38%3A0"
+      },
+      {
+        "title":"IEEE-WIE",
+        "category":"A Microsoft Teams clone made as a part of a challenge under Microsoft Engage-21 program.",
+        "image":"IEEE-WIE.png",
+        "url":"https://www.figma.com/file/6SFcN7k8gd1gdwIZXovxrf/ieee-wie-website-Copy?node-id=0%3A1"
+      },
+      {
+        "title":"Cryptox",
+        "category":"A lyrics generator made using concepts of Natural Language Processing and Neural Networks.",
+        "image":"Defi.png",
+        "url":"https://www.figma.com/file/PFQZVwC9FZ5ob4ONaSOVFV/crytox"
+      }
+      
+    ],
+    "blog": [
+      {
+        "title":"Natural Language Processing using TensorFlow",
+        "category":"A common E-learning platform to connect students,mentors and recruiters, for making the process of learning, teaching and recruiting way more simpler.",
+        "image":"nlp.png",
+        "url":"https://ritikaxx.medium.com/natural-language-processing-using-tensorflow-36d3714cd08b"
+      },
+      {
+        "title":"Positioning in CSS like a God!",
+        "category":"A Microsoft Teams clone made as a part of a challenge under Microsoft Engage-21 program.",
+        "image":"css.png",
+        "url":"https://ritikaxx.medium.com/positioning-in-css-like-a-god-9b667ed3cd00"
+      },
+      {
+        "title":"Sentiment Analysis",
+        "category":"A lyrics generator made using concepts of Natural Language Processing and Neural Networks.",
+        "image":"sentiment.png",
+        "url":"https://ritikaxx.medium.com/sentiment-analysis-using-nlp-in-tensorflow-9232adb649"
+      }
+      
+    ]
+  }
+}
